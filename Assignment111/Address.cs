@@ -8,8 +8,8 @@ namespace Assignment111
 {
 	class Address
 	{
-		private string roadNo,houseNo, city, country;
-		public Address(string roadNo,string houseNo, string city, string country)
+		private string roadNo, houseNo, city, country;
+		public Address(string roadNo, string houseNo, string city, string country)
 		{
 			this.roadNo = roadNo;
 			this.houseNo = houseNo;
